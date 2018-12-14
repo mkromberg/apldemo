@@ -1,4 +1,4 @@
-﻿]load /Users/dhaval/apldemo/*
+﻿]load /Users/dhaval/codejugalbandi/apldemo/*
 Init
 ]box on
 'Hello' 'Bangalore' 2018 (⍳5)
