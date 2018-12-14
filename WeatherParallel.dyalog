@@ -10,6 +10,6 @@
 
      placesNearbyData←GetRequestData II placesNearbyUrl ⍝ II is model of ∥
      weatherData←GetRequestData II weatherUrl           ⍝ placesNearbyData and weatherData are futures
-     '{ "weather" : ',weatherData,', "placesNearby": ',placesNearbyData,' }"' ⍝ Blocks if futures are not complete
-
+     '{ "weather" : ',weatherData,', "placesNearby": ',placesNearbyData,' }"' ⍝ Construct JSON result
+      ⍝ ↑↑↑ above line will BLOCK until futures complete
  }

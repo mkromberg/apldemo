@@ -6,7 +6,7 @@ Init
 Portfolio 0
 PortfolioParallel 0
 
-]runtime "Portfolio 0" -details=ai
+]runtime "Portfolio 0"         -details=ai
 ]runtime "PortfolioParallel 0" -details=ai
 
 ⍝ --- Pause ---
