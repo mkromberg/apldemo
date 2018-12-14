@@ -1,5 +1,7 @@
 ﻿]load /Users/dhaval/apldemo/*
 Init
+]box on
+'Hello' 'Bangalore' 2018 (⍳5)
 
 Portfolio 0
 PortfolioParallel 0
