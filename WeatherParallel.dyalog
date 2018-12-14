@@ -1,7 +1,7 @@
 ﻿ WeatherParallel←{
      ⍝ Retrieve weather and location data in parallel using futures
 
-     host←'https://geographic-services.herokuapp.com:8000'
+     host←'http://geographic-services.herokuapp.com:8000'
      nearbyPath←'/places/nearby' ⋄ weatherPath←'/weather'
      (lat lon radius units)←'lat=19.01' 'lon=72.8' 'radius=25' 'unit=km'
 
