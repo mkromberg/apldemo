@@ -12,6 +12,6 @@
 ⍝    3 if usage ≥10
 
 ⍝ Problem: Compute the per user bill
-⍝ Hint:  see  ⍸
+⍝ Hint:  see  ⍸ (Interval Index)   
 
  ⎕←2 2⍴'rates' 'usage'rates usage

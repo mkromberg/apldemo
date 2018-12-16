@@ -13,3 +13,5 @@
 ⍝ perfect       19
 ⍝ hot           47
 ⍝ deadly hot   248
+
+⍝ Hint:     ⍸ (Interval Index)    and      ⌸ (Key)
